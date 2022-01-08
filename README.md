@@ -1,0 +1,1 @@
+Design pattern provide a solid foundation of writing best in class production level code with less errors. In this repo we are learning about those concepts with Java first and Typescript later, In java we are using `SpringBoot`and in Typescript we are using `NodeJS` which indeed give us a better learning experience in the practical world.
