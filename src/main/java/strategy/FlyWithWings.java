@@ -1,4 +1,4 @@
-package duck_code;
+package strategy;
 
 public class FlyWithWings implements FlyBehaviour {
     public void fly() {
